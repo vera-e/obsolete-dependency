@@ -1,7 +1,7 @@
 # obsolete-dependency
 Practical Software Dev Workshop
 
-1. Kuy
-2. Tango
-3. Fluk
-4. Vin
+1. Ku Kunanon
+2. Tang Nattawut
+3. Fluke Rawat
+4. Vim Vera
